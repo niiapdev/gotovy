@@ -1,0 +1,5 @@
+vkbottle
+yt-dlp
+faster-whisper
+ffmpeg-python
+# Также требуется бинарник ffmpeg в PATH (choco install ffmpeg / winget install ffmpeg)

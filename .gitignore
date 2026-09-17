@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# данные — пересоздаются при старте, в git не нужны
+video_for_whisper/
+video_subtitled/
+jobs.sqlite3
+
+# секреты
+.env
